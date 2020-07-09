@@ -64,7 +64,7 @@
   "dependencies": {
     "babel-plugin-transform-es2015-modules-commonjs": "^6.26.0",
     "chalk": "^2.1.0",
-    "deasync": "^0.1.15",
+    "deasync": "git+https://github.com/navigator117/deasync.git",
     "extract-from-css": "^0.4.4",
     "find-babel-config": "^1.1.0",
     "js-beautify": "^1.6.14",
